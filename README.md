@@ -6,10 +6,6 @@
 
 > *"This project was brought to you with hate by pmilner-, mforest-, namichel & lviravon!"*
 
-<p align="center">
-  <img src="./readme_img/team.png">
-</p>
-
 ---
 
 ## Description
